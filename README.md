@@ -21,7 +21,7 @@ Następnie otwórz `http://localhost:8000`. Samo otwarcie `index.html` również
 
 ## Podmiana materiałów
 
-Zdjęcia ekipy i motocykli przekazane przez właściciela zostały zapisane lokalnie jako zoptymalizowane pliki JPEG. Pozostałe placeholdery są celowo oznaczone jako demonstracyjne. W `index.html` miejsca do edycji są oznaczone komentarzami `PODMIANA`, `PODMIANA PARTNERÓW` i `KONTAKT`.
+Zdjęcia motocykli przekazane przez właściciela zostały zapisane lokalnie jako zoptymalizowane pliki JPEG. Strona nie publikuje obecnie zdjęć przedstawiających ludzi. Pozostałe placeholdery są celowo oznaczone jako demonstracyjne. W `index.html` miejsca do edycji są oznaczone komentarzami `PODMIANA`, `PODMIANA PARTNERÓW` i `KONTAKT`.
 
 1. Umieść zoptymalizowane zdjęcia WebP/AVIF w `assets/images/`.
 2. Zmień odpowiednie `src`, `href`, `width`, `height` i teksty `alt` w `index.html`.
