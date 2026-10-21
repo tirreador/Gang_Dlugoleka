@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="t">
+  <title id="t">Miejsce na zdjcie pracy w gara|u</title>
+  <defs><linearGradient id="b"><stop stop-color="#0a0b0d"/><stop offset=".7" stop-color="#2d2925"/><stop offset="1" stop-color="#17171a"/></linearGradient></defs>
+  <rect width="1000" height="750" fill="url(#b)"/>
+  <g stroke="#f2f0ea" opacity=".13"><path d="M0 150h1000M0 300h1000M0 450h1000M0 600h1000"/><path d="M200 0v750M400 0v750M600 0v750M800 0v750"/></g>
+  <rect x="95" y="120" width="470" height="365" fill="#08090b"/><rect x="125" y="150" width="410" height="305" fill="#c8873f" opacity=".13"/>
+  <g fill="#090a0c"><circle cx="410" cy="520" r="110"/><circle cx="740" cy="520" r="110"/><path d="M410 520l120-225h150l72 225-195-45z"/><path d="M530 300l-50-105h150l65 110z"/></g>
+  <text x="70" y="690" fill="#b7b7be" font-family="Arial,sans-serif" font-size="21" letter-spacing="5">KADR DEMONSTRACYJNY " GARA{</text>
+</svg>

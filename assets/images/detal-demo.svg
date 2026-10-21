@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-labelledby="t">
+  <title id="t">Miejsce na zdjcie detalu maszyny</title>
+  <defs><radialGradient id="b" cx=".38" cy=".46"><stop stop-color="#574a3f"/><stop offset=".48" stop-color="#19191c"/><stop offset="1" stop-color="#07080a"/></radialGradient></defs>
+  <rect width="1000" height="750" fill="url(#b)"/>
+  <circle cx="390" cy="350" r="250" fill="#0a0b0d" stroke="#303034" stroke-width="45"/><circle cx="390" cy="350" r="154" fill="#16171a" stroke="#c8873f" stroke-width="8"/>
+  <g stroke="#87878c" stroke-width="10" opacity=".65"><path d="M390 106v488M146 350h488M217 177l346 346M217 523l346-346"/></g>
+  <circle cx="390" cy="350" r="54" fill="#c8873f"/><path d="M530 330L910 92" stroke="#111216" stroke-width="62"/><path d="M520 334L880 108" stroke="#c8873f" stroke-width="8"/>
+  <text x="940" y="690" fill="#b7b7be" font-family="Arial,sans-serif" font-size="21" text-anchor="end" letter-spacing="5">KADR DEMONSTRACYJNY " DETAL</text>
+</svg>

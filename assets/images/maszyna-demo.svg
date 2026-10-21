@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" role="img" aria-labelledby="t">
+  <title id="t">Miejsce na zdjcie motocykla</title>
+  <defs><radialGradient id="b" cx=".7" cy=".35"><stop stop-color="#5e4b39"/><stop offset=".5" stop-color="#1b1a1b"/><stop offset="1" stop-color="#090a0c"/></radialGradient></defs>
+  <rect width="900" height="1200" fill="url(#b)"/>
+  <g transform="translate(20 220)">
+    <circle cx="210" cy="650" r="172" fill="none" stroke="#08090b" stroke-width="52"/><circle cx="675" cy="650" r="172" fill="none" stroke="#08090b" stroke-width="52"/>
+    <path d="M215 630l158-305h194l123 305-280-50-195 50zm150-310l-62-112h180l55 121z" fill="#090a0c"/>
+    <path d="M540 325l140-70 58 40-154 100z" fill="#c8873f"/><path d="M405 580l245-20" stroke="#c8873f" stroke-width="16"/>
+  </g>
+  <text x="450" y="1100" fill="#b7b7be" font-family="Arial,sans-serif" font-size="22" text-anchor="middle" letter-spacing="5">MIEJSCE NA ZDJCIE MOTOCYKLA</text>
+</svg>

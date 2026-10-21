@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="t">
+  <title id="t">Miejsce na zdjcie ze wspólnej trasy</title>
+  <defs><linearGradient id="s" y2="1"><stop stop-color="#29282b"/><stop offset=".7" stop-color="#93806b"/><stop offset="1" stop-color="#d09a60"/></linearGradient><linearGradient id="r" y2="1"><stop stop-color="#2b2b2f"/><stop offset="1" stop-color="#090a0c"/></linearGradient></defs>
+  <rect width="1400" height="900" fill="url(#s)"/><circle cx="1040" cy="210" r="120" fill="#e7b67c" opacity=".65"/>
+  <path d="M0 470l260-170 240 130 250-230 290 250 360-150v600H0z" fill="#15171a"/>
+  <path d="M0 590l350-80 220 90 310-120 520 120v300H0z" fill="#0d0e10"/>
+  <path d="M590 900L720 500 850 900z" fill="url(#r)"/><path d="M713 780l20-105h18l22 105z" fill="#c8873f" opacity=".65"/>
+  <text x="70" y="825" fill="#f2f0ea" font-family="Arial,sans-serif" font-size="24" letter-spacing="5">KADR DEMONSTRACYJNY " TRASA</text>
+</svg>
